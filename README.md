@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Studentka AGH Informatyka i Systemy Inteligentne, uczę się Pythona i bardzo chcę zdać ten semestr :)
+I'm Alicja, a second-year student of Computer Science and Intelligent Systems at AGH UST
 
-Link do strony: https://solka99.github.io/ <br>
-The Language Interpretability Tool: Extensible, Interactive Visualizations and Analysis for NLP Models [artykuł](https://paperswithcode.com/paper/the-language-interpretability-tool-extensible) i [fork](https://github.com/Solka99/lit.git).
+Known programming languages: Python, SQL, Java, C, C++, HTML, CSS
